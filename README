@@ -1,0 +1,13 @@
+/***************************************************************************************\
+/******* ANDROID BLUETOOTH SMART SAMPLE APP FLOWER POWER LIVE NOTIFICATION  ************\
+********               TO BBOX API NEW ROOM NOTIFICATION                      **********\
+/***************************************************************************************\
+
+_ Scan and filter all Flower power devices
+_ connect to selected flower power devices
+_ discover automatically all services related to this device
+_ register to 5 characteristics notifications on the device : sun light / soil EC / soil WC / soil temperature / air temperature
+_ send all these notifications on the fly to Bbox Api new room notification (named /Message/Bluetooth)
+
+
+
